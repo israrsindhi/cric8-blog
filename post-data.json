@@ -1,0 +1,66 @@
+            {
+                id: 7,
+                title: "PSL 11 Expansion: Sialkot and Hyderabad Join the Ranks in Record Auction",
+                excerpt: "The Pakistan Super League has officially expanded to eight teams as Sialkot and Hyderabad were sold for record-breaking bids in the 2026 auction.",
+                content: `<h2>A Historic Night in Islamabad</h2>
+                <p>The landscape of Pakistan cricket changed forever on January 8, 2026, at the Jinnah Convention Centre. The Pakistan Super League (PSL) successfully completed its expansion from six to eight franchises, marking the league's transition into its most ambitious era yet.</p>
+                
+                <h2>The Big Bidders</h2>
+                <p>The auction saw intense competition among ten technically qualified bidders. In a dramatic final round, the <strong>Sialkot</strong> franchise set a new league record, while <strong>Hyderabad</strong> secured its spot as the seventh team:</p>
+                <ul>
+                    <li><strong>Sialkot (OZ Developers):</strong> Sold for a staggering <strong>Rs 1.85 billion</strong>, the highest bid in PSL history.</li>
+                    <li><strong>Hyderabad (FKS Group):</strong> Secured for <strong>Rs 1.75 billion</strong> after a fierce bidding war.</li>
+                </ul>
+
+                
+
+                <h2>New Rivals, New Format</h2>
+                <p>With the addition of these two cities, the PSL 11 (scheduled for March 26 to May 3, 2026) will feature a revamped schedule. PCB Chairman Mohsin Naqvi noted that the inclusion of Sialkot and Hyderabad will provide a massive boost to regional talent and local fan engagement.</p>
+                
+                <blockquote>
+                    "Ten years of PSL have led us to this moment. The valuations we've seen tonight prove that the PSL is not just a cricket tournament; it is a global sporting brand that continues to grow." - Salman Naseer, PSL CEO.
+                </blockquote>`,
+                author: "Zainab Malik",
+                date: "2026-01-09",
+                category: "PSL Updates",
+                readTime: "5 min read",
+                tags: ["PSL 2026", "Auction", "Sialkot", "Hyderabad", "PCB"],
+                image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                views: 4500,
+                likes: 312
+            },
+            {
+                id: 8,
+                title: "Multan Sultans: PCB Takes Control as Ali Tareen Steps Away",
+                excerpt: "Following the expiry of the ownership agreement, the PCB will manage Multan Sultans for the 2026 season before a planned auction in 2027.",
+                content: `<h2>End of an Era for the Tareen Family</h2>
+                <p>In a significant shift for the 2021 champions, <strong>Ali Tareen</strong> officially announced his departure from the Multan Sultans franchise. After failing to reach a renewal agreement with the Pakistan Cricket Board (PCB), the ownership rights reverted to the board on December 31, 2025.</p>
+                
+                <h2>The PCB's Interim Strategy</h2>
+                <p>PCB Chairman Mohsin Naqvi has confirmed that the board will operate the Sultans as an "owner-less" team for the 2026 season. This move is designed to ensure the team's stability while the board prepares for a fresh auction after the tournament.</p>
+                
+                <blockquote>
+                    "South Punjab is where my heart is. If I come back to PSL, it has to be for the same reason. This year, I’ll be cheering from the stands, but when the team is put up for sale, we'll be ready." - Ali Tareen.
+                </blockquote>
+
+                
+
+                <h2>What’s Next for the Sultans?</h2>
+                <p>While the board manages the business side, the cricket operations will be handled by a specially appointed interim management unit:</p>
+                <ul>
+                    <li><strong>Management:</strong> A professional former cricketer will be appointed to lead operations.</li>
+                    <li><strong>Squad:</strong> The team remains a powerhouse, led by Mohammad Rizwan, with stars like Usama Mir and Iftikhar Ahmed retained.</li>
+                    <li><strong>Sale:</strong> A public auction for the franchise is expected to take place in late 2026 or early 2027.</li>
+                </ul>`,
+                author: "Ahmed Khan",
+                date: "2026-01-14",
+                category: "Franchise News",
+                readTime: "4 min read",
+                tags: ["Multan Sultans", "Ali Tareen", "PCB", "Ownership", "PSL 11"],
+                image: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                views: 3820,
+                likes: 275
+            }
+        ]
+    };
+}
